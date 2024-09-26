@@ -1,2 +1,2 @@
-# Type-shit
-I have no idewa
+# Discord theme
+black and red
